@@ -68,8 +68,10 @@ Build engagement constructs on the platform that drive connectivity and virality
     ```
 ## Usage
 
-1. Open your browser and go to `http://localhost:5500`.
-2. Explore the features, such as browsing thrift items, participating in fashion challenges, and engaging with the community.
+1. To run the code, open `social.html` in your web browser.
+2. Open your browser and go to `http://localhost:5500`.
+3. Explore the features, such as browsing thrift items, participating in fashion challenges, and engaging with the community.
+
 
 ## Benefits
 
